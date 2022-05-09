@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="colorSpammer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/colorSpammer_jar</output-path>
+    <root id="archive" name="colorSpammer.jar">
+      <element id="module-output" name="colorSpammer" />
+    </root>
+  </artifact>
+</component>
